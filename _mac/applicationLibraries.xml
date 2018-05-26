@@ -4,6 +4,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="bigdecimal (v1.3.4, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="bundler (v1.16.1, rbenv: 2.4.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/lib" />
@@ -11,6 +15,30 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/lib" />
       </SOURCES>
+    </library>
+    <library name="bundler (v1.16.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="cmath (v1.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="csv (v1.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="date (v1.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="dbm (v1.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="debase (v0.2.2, rbenv: 2.4.4) [gem]">
       <CLASSES>
@@ -36,11 +64,51 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="did_you_mean (v1.2.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="etc (v1.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="fcntl (v1.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="fiddle (v1.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="fileutils (v1.0.2, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="gdbm (v2.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="io-console (v0.4.6, rbenv: 2.4.4) [gem]">
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="io-console (v0.4.6, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="ipaddr (v1.2.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="json (v2.0.4, rbenv: 2.4.4) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="json (v2.1.0, rbenv: 2.5.0) [gem]">
       <CLASSES />
       <SOURCES />
     </library>
@@ -52,6 +120,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.3, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="net-telnet (v0.1.1, rbenv: 2.4.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/lib" />
@@ -60,7 +136,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="net-telnet (v0.1.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="openssl (v2.0.7, rbenv: 2.4.4) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="openssl (v2.1.0, rbenv: 2.5.0) [gem]">
       <CLASSES />
       <SOURCES />
     </library>
@@ -72,7 +160,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="power_assert (v1.1.1, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="psych (v2.2.2, rbenv: 2.4.4) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="psych (v3.0.2, rbenv: 2.5.0) [gem]">
       <CLASSES />
       <SOURCES />
     </library>
@@ -84,7 +184,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rake-12.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.3.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v5.0.0, rbenv: 2.4.4) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rdoc (v6.0.1, rbenv: 2.5.0) [gem]">
       <CLASSES />
       <SOURCES />
     </library>
@@ -96,6 +208,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.7.0.beta4/lib" />
       </SOURCES>
     </library>
+    <library name="scanf (v1.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="sdbm (v1.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="stringio (v0.0.1, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="strscan (v1.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="test-unit (v3.2.3, rbenv: 2.4.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/lib" />
@@ -104,6 +232,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="test-unit (v3.2.7, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="webrick (v1.4.2, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="xmlrpc (v0.2.1, rbenv: 2.4.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/lib" />
@@ -111,6 +251,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/lib" />
       </SOURCES>
+    </library>
+    <library name="xmlrpc (v0.3.0, rbenv: 2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="zlib (v1.0.0, rbenv: 2.5.0) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
   </component>
 </application>
