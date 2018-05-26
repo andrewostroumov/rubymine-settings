@@ -12,6 +12,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2, rbenv: 2.4.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.3, rbenv: 2.4.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.1.0, rbenv: 2.4.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib" />
@@ -71,6 +87,14 @@
     <library name="rdoc (v5.0.0, rbenv: 2.4.4) [gem]">
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="ruby-debug-ide (v0.7.0.beta4, rbenv: 2.4.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </SOURCES>
     </library>
     <library name="test-unit (v3.2.3, rbenv: 2.4.4) [gem]">
       <CLASSES>
