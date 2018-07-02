@@ -200,14 +200,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/lib" />
       </SOURCES>
     </library>
-    <library name="bundler (v1.16.1, rbenv: 2.4.4) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/lib" />
-      </SOURCES>
-    </library>
     <library name="bundler (v1.16.1, rbenv: 2.5.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/lib" />
@@ -222,6 +214,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.16.2, rbenv: 2.4.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/bundler-1.16.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/bundler-1.16.2/lib" />
       </SOURCES>
     </library>
     <library name="bundler (v1.16.2, rbenv: jruby-9.2.0.0) [gem]">
@@ -303,22 +303,6 @@
     <library name="dbm (v1.0.0, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <SOURCES />
-    </library>
-    <library name="debase (v0.2.2, rbenv: 2.4.4) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/debase-0.2.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase-ruby_core_source (v0.10.3, rbenv: 2.4.4) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.10.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.10.3/lib" />
-      </SOURCES>
     </library>
     <library name="did_you_mean (v1.1.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -938,14 +922,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rubocop-0.52.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby-debug-ide (v0.7.0.beta4, rbenv: 2.4.4) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.7.0.beta4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.7.0.beta4/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.9.0, rbenv: 2.4.2) [gem]">
