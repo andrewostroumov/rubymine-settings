@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.hbs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +18,7 @@
     <mask>*.rbcable_updater.update_counter!</mask>
     <mask>*.js</mask>
     <mask>`</mask>
-    <mask>*.hbs</mask>
     <mask>*.rb</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
