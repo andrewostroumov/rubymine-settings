@@ -14,8 +14,8 @@
     <mask>*.scss</mask>
     <mask>*.rbcable_updater.update_counter!</mask>
     <mask>`</mask>
-    <mask>*.hbs</mask>
     <mask>*.js</mask>
     <mask>*.rb</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
