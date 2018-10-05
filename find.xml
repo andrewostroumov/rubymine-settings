@@ -18,5 +18,6 @@
     <mask>*.hbs</mask>
     <mask>*.js,*.hbs</mask>
     <mask>*.rb</mask>
+    <mask>*.erb</mask>
   </component>
 </application>
