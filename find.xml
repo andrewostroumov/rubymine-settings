@@ -16,10 +16,10 @@
     <mask>*.scss</mask>
     <mask>*.rbcable_updater.update_counter!</mask>
     <mask>`</mask>
-    <mask>*.hbs</mask>
     <mask>*.js,*.hbs</mask>
     <mask>*.rb</mask>
     <mask>*.erb</mask>
+    <mask>*.hbs</mask>
     <mask>*.js</mask>
   </component>
 </application>
