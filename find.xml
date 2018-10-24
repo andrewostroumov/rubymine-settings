@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,9 +18,9 @@
     <mask>*.rbcable_updater.update_counter!</mask>
     <mask>`</mask>
     <mask>*.js,*.hbs</mask>
-    <mask>*.rb</mask>
     <mask>*.erb</mask>
     <mask>*.hbs</mask>
     <mask>*.js</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
