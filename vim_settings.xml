@@ -1,0 +1,64 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/instalike.api/app/models/instagram_account.rb" timestamp="1542884680050">
+        <mark key="[" line="39" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/instalike.api/app/models/slot/repairer.rb" timestamp="1542885022834" />
+      <file name="$USER_HOME$/Projects/instalike.api/app/models/slot.rb" timestamp="1542885864656" />
+      <file name="$USER_HOME$/Projects/instalike.api/app/models/order/creator.rb" timestamp="1542885928367">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="4" />
+        <mark key="^" line="27" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/instalike.api/app/models/instagram_account/profiler.rb" timestamp="1542885584330">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/instalike.api/log/accounts/44-f2eaf9c18e6c3dd6362b96e95cbd0956942b19c33bdb570baed0f059022e5972.txt" timestamp="1542885724903" />
+    </filemarks>
+    <jumps>
+      <jump line="27" column="8" filename="$USER_HOME$/Projects/instalike.api/app/models/instagram_account/profiler.rb" />
+      <jump line="129" column="0" filename="$USER_HOME$/Projects/instalike.api/app/models/instagram_account/profiler.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/instalike.api/app/models/instagram_account/profiler.rb" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICBpZiBAcmVzb3VyY2Uuc3Vic2NyaWJlZF90aWxsIDwgMTIuaG91cnMuYWdvCiAgICAgICAgICBAcmVzb3VyY2UudXBkYXRlKGxhc3RfcGFyc2VfYXQ6IFRpbWUuem9uZS5ub3cpCiAgICAgICAgZW5kCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICBpZiBAcmVzb3VyY2Uuc3Vic2NyaWJlZF90aWxsIDwgMTIuaG91cnMuYWdvCiAgICAgICAgICBAcmVzb3VyY2UudXBkYXRlKGxhc3RfcGFyc2VfYXQ6IFRpbWUuem9uZS5ub3cpCiAgICAgICAgZW5kCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcHV0cyAiVGhyZWFkIHJlc3BvbnNlOiAje3Jlc3BvbnNlLmRhdGF9Igo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcGRkdXRzICJDaGVjayAje2NhdGVnb3J5fSIK</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
