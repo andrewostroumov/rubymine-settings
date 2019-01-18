@@ -8,7 +8,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/actioncable-5.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="actioncable (v5.1.6, rbenv: 2.5.1) [gem]">
+    <library name="actioncable (v5.1.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actioncable-5.1.6/lib" />
       </CLASSES>
@@ -16,7 +19,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actioncable-5.1.6/lib" />
       </SOURCES>
     </library>
-    <library name="actioncable (v5.2.0, rbenv: 2.5.1) [gem]">
+    <library name="actioncable (v5.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actioncable-5.2.0/lib" />
       </CLASSES>
@@ -24,7 +30,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actioncable-5.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="actioncable (v5.2.1, rbenv: 2.5.1) [gem]">
+    <library name="actioncable (v5.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actioncable-5.2.1/lib" />
       </CLASSES>
@@ -40,7 +49,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/actionmailer-5.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="actionmailer (v5.1.6, rbenv: 2.5.1) [gem]">
+    <library name="actionmailer (v5.1.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionmailer-5.1.6/lib" />
       </CLASSES>
@@ -48,7 +60,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionmailer-5.1.6/lib" />
       </SOURCES>
     </library>
-    <library name="actionmailer (v5.2.0, rbenv: 2.5.1) [gem]">
+    <library name="actionmailer (v5.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionmailer-5.2.0/lib" />
       </CLASSES>
@@ -56,7 +71,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionmailer-5.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="actionmailer (v5.2.1, rbenv: 2.5.1) [gem]">
+    <library name="actionmailer (v5.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionmailer-5.2.1/lib" />
       </CLASSES>
@@ -72,7 +90,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/actionpack-5.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="actionpack (v5.1.6, rbenv: 2.5.1) [gem]">
+    <library name="actionpack (v5.1.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.1.6/lib" />
       </CLASSES>
@@ -80,7 +101,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.1.6/lib" />
       </SOURCES>
     </library>
-    <library name="actionpack (v5.2.0, rbenv: 2.5.1) [gem]">
+    <library name="actionpack (v5.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib" />
       </CLASSES>
@@ -88,7 +112,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="actionpack (v5.2.1, rbenv: 2.5.1) [gem]">
+    <library name="actionpack (v5.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.2.1/lib" />
       </CLASSES>
@@ -104,7 +131,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/actionview-5.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="actionview (v5.1.6, rbenv: 2.5.1) [gem]">
+    <library name="actionview (v5.1.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionview-5.1.6/lib" />
       </CLASSES>
@@ -112,7 +142,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionview-5.1.6/lib" />
       </SOURCES>
     </library>
-    <library name="actionview (v5.2.0, rbenv: 2.5.1) [gem]">
+    <library name="actionview (v5.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionview-5.2.0/lib" />
       </CLASSES>
@@ -120,7 +153,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionview-5.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="actionview (v5.2.1, rbenv: 2.5.1) [gem]">
+    <library name="actionview (v5.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionview-5.2.1/lib" />
       </CLASSES>
@@ -136,7 +172,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/activejob-5.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="activejob (v5.1.6, rbenv: 2.5.1) [gem]">
+    <library name="activejob (v5.1.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activejob-5.1.6/lib" />
       </CLASSES>
@@ -144,7 +183,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activejob-5.1.6/lib" />
       </SOURCES>
     </library>
-    <library name="activejob (v5.2.0, rbenv: 2.5.1) [gem]">
+    <library name="activejob (v5.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activejob-5.2.0/lib" />
       </CLASSES>
@@ -152,7 +194,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activejob-5.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="activejob (v5.2.1, rbenv: 2.5.1) [gem]">
+    <library name="activejob (v5.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activejob-5.2.1/lib" />
       </CLASSES>
@@ -168,7 +213,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/activemodel-5.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="activemodel (v5.1.6, rbenv: 2.5.1) [gem]">
+    <library name="activemodel (v5.1.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activemodel-5.1.6/lib" />
       </CLASSES>
@@ -176,7 +224,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activemodel-5.1.6/lib" />
       </SOURCES>
     </library>
-    <library name="activemodel (v5.2.0, rbenv: 2.5.1) [gem]">
+    <library name="activemodel (v5.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activemodel-5.2.0/lib" />
       </CLASSES>
@@ -184,7 +235,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activemodel-5.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="activemodel (v5.2.1, rbenv: 2.5.1) [gem]">
+    <library name="activemodel (v5.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activemodel-5.2.1/lib" />
       </CLASSES>
@@ -200,49 +254,95 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/activerecord-5.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="activerecord (v5.1.6, rbenv: 2.5.1) [gem]">
+    <library name="activerecord (v5.1.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.1.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.1.6/examples" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.1.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.1.6/examples" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.1.6/examples" />
+      </excluded>
     </library>
-    <library name="activerecord (v5.2.0, rbenv: 2.5.1) [gem]">
+    <library name="activerecord (v5.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.2.0/examples" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.2.0/examples" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.2.0/examples" />
+      </excluded>
     </library>
-    <library name="activerecord (v5.2.1, rbenv: 2.5.1) [gem]">
+    <library name="activerecord (v5.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.2.1/examples" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.2.1/examples" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-5.2.1/examples" />
+      </excluded>
     </library>
-    <library name="activestorage (v5.2.0, rbenv: 2.5.1) [gem]">
+    <library name="activestorage (v5.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/db" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/config" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/db" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/config" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.0/config" />
+      </excluded>
     </library>
-    <library name="activestorage (v5.2.1, rbenv: 2.5.1) [gem]">
+    <library name="activestorage (v5.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/db" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/config" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/db" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/config" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activestorage-5.2.1/config" />
+      </excluded>
     </library>
     <library name="activesupport (v5.1.5, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -252,7 +352,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/activesupport-5.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="activesupport (v5.1.6, rbenv: 2.5.1) [gem]">
+    <library name="activesupport (v5.1.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.1.6/lib" />
       </CLASSES>
@@ -260,7 +363,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.1.6/lib" />
       </SOURCES>
     </library>
-    <library name="activesupport (v5.2.0, rbenv: 2.5.1) [gem]">
+    <library name="activesupport (v5.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib" />
       </CLASSES>
@@ -268,7 +374,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="activesupport (v5.2.1, rbenv: 2.5.1) [gem]">
+    <library name="activesupport (v5.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.1/lib" />
       </CLASSES>
@@ -284,7 +393,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/arel-8.0.0/lib" />
       </SOURCES>
     </library>
-    <library name="arel (v8.0.0, rbenv: 2.5.1) [gem]">
+    <library name="arel (v8.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/arel-8.0.0/lib" />
       </CLASSES>
@@ -292,7 +404,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/arel-8.0.0/lib" />
       </SOURCES>
     </library>
-    <library name="arel (v9.0.0, rbenv: 2.5.1) [gem]">
+    <library name="arel (v9.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/arel-9.0.0/lib" />
       </CLASSES>
@@ -332,7 +447,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="bigdecimal (v1.3.4, rbenv: 2.5.1) [gem]">
+    <library name="bigdecimal (v1.3.4, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -348,21 +466,43 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/builder-3.2.3/lib" />
       </SOURCES>
     </library>
-    <library name="builder (v3.2.3, rbenv: 2.5.1) [gem]">
+    <library name="builder (v3.2.3, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/builder-3.2.3/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/builder-3.2.3/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/builder-3.2.3/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/builder-3.2.3/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/builder-3.2.3/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/builder-3.2.3/rakelib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/builder-3.2.3/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/builder-3.2.3/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/builder-3.2.3/rakelib" />
+      </excluded>
     </library>
-    <library name="bump (v0.6.1, rbenv: 2.5.1) [gem]">
+    <library name="bump (v0.6.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bump-0.6.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bump-0.6.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bump-0.6.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bump-0.6.1/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bump-0.6.1/bin" />
+      </excluded>
     </library>
     <library name="bundler (v1.16.0, rbenv: 2.3.3) [gem]">
       <CLASSES>
@@ -404,13 +544,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/lib" />
       </SOURCES>
     </library>
-    <library name="bundler (v1.16.1, rbenv: 2.5.1) [gem]">
+    <library name="bundler (v1.16.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/man" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/man" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.1/man" />
+      </excluded>
     </library>
     <library name="bundler (v1.16.2, rbenv: 2.4.4) [gem]">
       <CLASSES>
@@ -436,21 +587,43 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.16.3/lib" />
       </SOURCES>
     </library>
-    <library name="bundler (v1.16.3, rbenv: 2.5.1) [gem]">
+    <library name="bundler (v1.16.3, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.3/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.3/man" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.3/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.3/man" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.3/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.3/man" />
+      </excluded>
     </library>
-    <library name="bundler (v1.16.6, rbenv: 2.5.1) [gem]">
+    <library name="bundler (v1.16.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.6/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.6/man" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.6/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.6/man" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.6/man" />
+      </excluded>
     </library>
     <library name="bundler (v1.17.3, rbenv: 2.5.3) [gem]">
       <CLASSES>
@@ -464,7 +637,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="cmath (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="cmath (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -484,7 +660,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
     </library>
-    <library name="concurrent-ruby (v1.0.5, rbenv: 2.5.1) [gem]">
+    <library name="concurrent-ruby (v1.0.5, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/concurrent-ruby-1.0.5/lib" />
       </CLASSES>
@@ -500,19 +679,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/crass-1.0.3/lib" />
       </SOURCES>
     </library>
-    <library name="crass (v1.0.3, rbenv: 2.5.1) [gem]">
+    <library name="crass (v1.0.3, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/crass-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/crass-1.0.3/test" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/crass-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/crass-1.0.3/test" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/crass-1.0.3/test" />
+      </excluded>
     </library>
     <library name="csv (v1.0.0, rbenv: 2.5.0) [gem]">
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="csv (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="csv (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -528,7 +718,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="date (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="date (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -540,7 +733,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="dbm (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="dbm (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -596,13 +792,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="did_you_mean (v1.2.0, rbenv: 2.5.1) [gem]">
+    <library name="did_you_mean (v1.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
+      </excluded>
     </library>
     <library name="did_you_mean (v1.2.0, rbenv: 2.5.3) [gem]">
       <CLASSES>
@@ -612,13 +825,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="diff-lcs (v1.3, rbenv: 2.5.1) [gem]">
+    <library name="diff-lcs (v1.3, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/autotest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/autotest" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/diff-lcs-1.3/autotest" />
+      </excluded>
     </library>
     <library name="erubi (v1.7.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -628,19 +858,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/erubi-1.7.0/lib" />
       </SOURCES>
     </library>
-    <library name="erubi (v1.7.1, rbenv: 2.5.1) [gem]">
+    <library name="erubi (v1.7.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/erubi-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/erubi-1.7.1/test" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/erubi-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/erubi-1.7.1/test" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/erubi-1.7.1/test" />
+      </excluded>
     </library>
     <library name="etc (v1.0.0, rbenv: 2.5.0) [gem]">
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="etc (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="etc (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -652,7 +893,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="fcntl (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="fcntl (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -664,7 +908,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="fiddle (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="fiddle (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -676,7 +923,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="fileutils (v1.0.2, rbenv: 2.5.1) [gem]">
+    <library name="fileutils (v1.0.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -692,7 +942,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="gdbm (v2.0.0, rbenv: 2.5.1) [gem]">
+    <library name="gdbm (v2.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -708,7 +961,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/globalid-0.4.1/lib" />
       </SOURCES>
     </library>
-    <library name="globalid (v0.4.1, rbenv: 2.5.1) [gem]">
+    <library name="globalid (v0.4.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/globalid-0.4.1/lib" />
       </CLASSES>
@@ -716,15 +972,29 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/globalid-0.4.1/lib" />
       </SOURCES>
     </library>
-    <library name="google-protobuf (v3.6.1, rbenv: 2.5.1) [gem]">
+    <library name="google-protobuf (v3.6.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/google-protobuf-3.6.1-universal-darwin/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/google-protobuf-3.6.1-universal-darwin/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/google-protobuf-3.6.1-universal-darwin/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/google-protobuf-3.6.1-universal-darwin/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/google-protobuf-3.6.1-universal-darwin/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/google-protobuf-3.6.1-universal-darwin/tests" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/google-protobuf-3.6.1-universal-darwin/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/google-protobuf-3.6.1-universal-darwin/tests" />
+      </excluded>
     </library>
-    <library name="googleapis-common-protos-types (v1.0.2, rbenv: 2.5.1) [gem]">
+    <library name="googleapis-common-protos-types (v1.0.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/googleapis-common-protos-types-1.0.2/lib" />
       </CLASSES>
@@ -732,21 +1002,36 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/googleapis-common-protos-types-1.0.2/lib" />
       </SOURCES>
     </library>
-    <library name="grpc (v1.15.0, rbenv: 2.5.1) [gem]">
+    <library name="grpc (v1.15.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/src/ruby/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/src/ruby/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/src/ruby/pb" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/etc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/src" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/src/ruby/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/src/ruby/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/src/ruby/pb" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/etc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/src" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/etc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-1.15.0-universal-darwin/src" />
+      </excluded>
     </library>
-    <library name="grpc-tools (v1.15.0, rbenv: 2.5.1) [gem]">
-      <CLASSES />
-      <SOURCES />
+    <library name="grpc-tools (v1.15.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-tools-1.15.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-tools-1.15.0/bin" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/grpc-tools-1.15.0/bin" />
+      </excluded>
     </library>
     <library name="http-2 (v0.8.4, rbenv: 2.4.3) [gem]">
       <CLASSES>
@@ -780,13 +1065,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/i18n-0.9.5/lib" />
       </SOURCES>
     </library>
-    <library name="i18n (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="i18n (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.0.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.0.0/gemfiles" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.0.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.0.0/gemfiles" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.0.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.0.0/gemfiles" />
+      </excluded>
     </library>
     <library name="instagram_client (v2.4.8@0ad47b, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -820,7 +1116,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="io-console (v0.4.6, rbenv: 2.5.1) [gem]">
+    <library name="io-console (v0.4.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -832,7 +1131,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="ipaddr (v1.2.0, rbenv: 2.5.1) [gem]">
+    <library name="ipaddr (v1.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -880,9 +1182,19 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="json (v2.1.0, rbenv: 2.5.1) [gem]">
-      <CLASSES />
-      <SOURCES />
+    <library name="json (v2.1.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/json/add" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/json/add" />
+      </excluded>
     </library>
     <library name="json (v2.1.0, rbenv: 2.5.3) [gem]">
       <CLASSES />
@@ -896,13 +1208,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/loofah-2.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="loofah (v2.2.2, rbenv: 2.5.1) [gem]">
+    <library name="loofah (v2.2.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/loofah-2.2.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/loofah-2.2.2/benchmark" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/loofah-2.2.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/loofah-2.2.2/benchmark" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/loofah-2.2.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/loofah-2.2.2/benchmark" />
+      </excluded>
     </library>
     <library name="mail (v2.7.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -912,7 +1235,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mail-2.7.0/lib" />
       </SOURCES>
     </library>
-    <library name="mail (v2.7.0, rbenv: 2.5.1) [gem]">
+    <library name="mail (v2.7.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mail-2.7.0/lib" />
       </CLASSES>
@@ -920,13 +1246,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mail-2.7.0/lib" />
       </SOURCES>
     </library>
-    <library name="marcel (v0.3.2, rbenv: 2.5.1) [gem]">
+    <library name="marcel (v0.3.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/marcel-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/marcel-0.3.2/test" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/marcel-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/marcel-0.3.2/test" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/marcel-0.3.2/test" />
+      </excluded>
     </library>
     <library name="method_source (v0.9.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -936,21 +1270,40 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/method_source-0.9.0/lib" />
       </SOURCES>
     </library>
-    <library name="method_source (v0.9.0, rbenv: 2.5.1) [gem]">
+    <library name="method_source (v0.9.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/method_source-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/method_source-0.9.0/spec" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/method_source-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/method_source-0.9.0/spec" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/method_source-0.9.0/spec" />
+      </excluded>
     </library>
-    <library name="mimemagic (v0.3.2, rbenv: 2.5.1) [gem]">
+    <library name="mimemagic (v0.3.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mimemagic-0.3.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mimemagic-0.3.2/script" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mimemagic-0.3.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mimemagic-0.3.2/script" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mimemagic-0.3.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mimemagic-0.3.2/script" />
+      </excluded>
     </library>
     <library name="mini_mime (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -960,13 +1313,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.0/lib" />
       </SOURCES>
     </library>
-    <library name="mini_mime (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="mini_mime (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_mime-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_mime-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_mime-1.0.0/bench" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_mime-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_mime-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_mime-1.0.0/bench" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_mime-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_mime-1.0.0/bench" />
+      </excluded>
     </library>
     <library name="mini_portile2 (v2.3.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -976,13 +1340,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/mini_portile2-2.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="mini_portile2 (v2.3.0, rbenv: 2.5.1) [gem]">
+    <library name="mini_portile2 (v2.3.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/concourse" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/concourse" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mini_portile2-2.3.0/concourse" />
+      </excluded>
     </library>
     <library name="minitest (v5.10.1, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1016,13 +1391,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
       </SOURCES>
     </library>
-    <library name="minitest (v5.10.3, rbenv: 2.5.1) [gem]">
+    <library name="minitest (v5.10.3, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
+      </excluded>
     </library>
     <library name="minitest (v5.10.3, rbenv: 2.5.3) [gem]">
       <CLASSES>
@@ -1104,13 +1487,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
-    <library name="net-telnet (v0.1.1, rbenv: 2.5.1) [gem]">
+    <library name="net-telnet (v0.1.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
+      </excluded>
     </library>
     <library name="net-telnet (v0.1.1, rbenv: 2.5.3) [gem]">
       <CLASSES>
@@ -1128,13 +1519,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nio4r-2.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="nio4r (v2.3.0, rbenv: 2.5.1) [gem]">
+    <library name="nio4r (v2.3.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/examples" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nio4r-2.3.0/examples" />
+      </excluded>
     </library>
     <library name="nokogiri (v1.8.2, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1144,13 +1552,36 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/lib" />
       </SOURCES>
     </library>
-    <library name="nokogiri (v1.8.2, rbenv: 2.5.1) [gem]">
+    <library name="nokogiri (v1.8.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/suppressions" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/nokogiri-1.8.2/suppressions" />
+      </excluded>
     </library>
     <library name="openssl (v2.0.5, rbenv: 2.4.2) [gem]">
       <CLASSES />
@@ -1168,7 +1599,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="openssl (v2.1.0, rbenv: 2.5.1) [gem]">
+    <library name="openssl (v2.1.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -1240,13 +1674,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </SOURCES>
     </library>
-    <library name="power_assert (v1.1.1, rbenv: 2.5.1) [gem]">
+    <library name="power_assert (v1.1.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
+      </excluded>
     </library>
     <library name="power_assert (v1.1.1, rbenv: 2.5.3) [gem]">
       <CLASSES>
@@ -1288,9 +1730,28 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="psych (v3.0.2, rbenv: 2.5.1) [gem]">
-      <CLASSES />
-      <SOURCES />
+    <library name="psych (v3.0.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/visitors" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/psych/visitors" />
+      </excluded>
     </library>
     <library name="psych (v3.0.2, rbenv: 2.5.3) [gem]">
       <CLASSES />
@@ -1304,13 +1765,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rack-2.0.4/lib" />
       </SOURCES>
     </library>
-    <library name="rack (v2.0.4, rbenv: 2.5.1) [gem]">
+    <library name="rack (v2.0.4, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/example" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-2.0.4/example" />
+      </excluded>
     </library>
     <library name="rack-test (v0.8.3, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1320,7 +1798,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rack-test-0.8.3/lib" />
       </SOURCES>
     </library>
-    <library name="rack-test (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="rack-test (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rack-test-1.0.0/lib" />
       </CLASSES>
@@ -1332,15 +1813,24 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="rails (v5.1.6, rbenv: 2.5.1) [gem]">
+    <library name="rails (v5.1.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="rails (v5.2.0, rbenv: 2.5.1) [gem]">
+    <library name="rails (v5.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="rails (v5.2.1, rbenv: 2.5.1) [gem]">
+    <library name="rails (v5.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -1352,13 +1842,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rails-dom-testing-2.0.3/lib" />
       </SOURCES>
     </library>
-    <library name="rails-dom-testing (v2.0.3, rbenv: 2.5.1) [gem]">
+    <library name="rails-dom-testing (v2.0.3, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rails-dom-testing-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rails-dom-testing-2.0.3/test" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rails-dom-testing-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rails-dom-testing-2.0.3/test" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rails-dom-testing-2.0.3/test" />
+      </excluded>
     </library>
     <library name="rails-html-sanitizer (v1.0.3, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1368,13 +1866,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rails-html-sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
-    <library name="rails-html-sanitizer (v1.0.4, rbenv: 2.5.1) [gem]">
+    <library name="rails-html-sanitizer (v1.0.4, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rails-html-sanitizer-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rails-html-sanitizer-1.0.4/test" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rails-html-sanitizer-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rails-html-sanitizer-1.0.4/test" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rails-html-sanitizer-1.0.4/test" />
+      </excluded>
     </library>
     <library name="railties (v5.1.5, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1384,29 +1890,53 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/railties-5.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="railties (v5.1.6, rbenv: 2.5.1) [gem]">
+    <library name="railties (v5.1.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.1.6/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.1.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.1.6/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.1.6/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.1.6/exe" />
+      </excluded>
     </library>
-    <library name="railties (v5.2.0, rbenv: 2.5.1) [gem]">
+    <library name="railties (v5.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.0/exe" />
+      </excluded>
     </library>
-    <library name="railties (v5.2.1, rbenv: 2.5.1) [gem]">
+    <library name="railties (v5.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.1/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.1/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.1/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.1/exe" />
+      </excluded>
     </library>
     <library name="rainbow (v3.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1432,13 +1962,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
       </SOURCES>
     </library>
-    <library name="rake (v10.5.0, rbenv: 2.5.1) [gem]">
+    <library name="rake (v10.5.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
+      </excluded>
     </library>
     <library name="rake (v12.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1472,13 +2019,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="rake (v12.3.0, rbenv: 2.5.1) [gem]">
+    <library name="rake (v12.3.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
+      </excluded>
     </library>
     <library name="rake (v12.3.0, rbenv: 2.5.3) [gem]">
       <CLASSES>
@@ -1516,9 +2077,43 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="rdoc (v6.0.1, rbenv: 2.5.1) [gem]">
-      <CLASSES />
-      <SOURCES />
+    <library name="rdoc (v6.0.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/generator" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/rdoc/generator" />
+      </excluded>
     </library>
     <library name="rdoc (v6.0.1, rbenv: 2.5.3) [gem]">
       <CLASSES />
@@ -1528,7 +2123,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="rspec (v3.8.0, rbenv: 2.5.1) [gem]">
+    <library name="rspec (v3.8.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-3.8.0/lib" />
       </CLASSES>
@@ -1536,15 +2134,26 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-3.8.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-core (v3.8.0, rbenv: 2.5.1) [gem]">
+    <library name="rspec-core (v3.8.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-core-3.8.0/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-core-3.8.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-core-3.8.0/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-core-3.8.0/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-core-3.8.0/exe" />
+      </excluded>
     </library>
-    <library name="rspec-expectations (v3.8.1, rbenv: 2.5.1) [gem]">
+    <library name="rspec-expectations (v3.8.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-expectations-3.8.1/lib" />
       </CLASSES>
@@ -1552,7 +2161,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-expectations-3.8.1/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-mocks (v3.8.0, rbenv: 2.5.1) [gem]">
+    <library name="rspec-mocks (v3.8.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.0/lib" />
       </CLASSES>
@@ -1560,7 +2172,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-support (v3.8.0, rbenv: 2.5.1) [gem]">
+    <library name="rspec-support (v3.8.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rspec-support-3.8.0/lib" />
       </CLASSES>
@@ -1588,7 +2203,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="scanf (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="scanf (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -1604,7 +2222,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="sdbm (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="sdbm (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -1620,13 +2241,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sprockets-3.7.1/lib" />
       </SOURCES>
     </library>
-    <library name="sprockets (v3.7.1, rbenv: 2.5.1) [gem]">
+    <library name="sprockets (v3.7.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sprockets-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sprockets-3.7.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sprockets-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sprockets-3.7.1/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sprockets-3.7.1/bin" />
+      </excluded>
     </library>
     <library name="sprockets-rails (v3.2.1, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1636,7 +2265,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
     </library>
-    <library name="sprockets-rails (v3.2.1, rbenv: 2.5.1) [gem]">
+    <library name="sprockets-rails (v3.2.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/sprockets-rails-3.2.1/lib" />
       </CLASSES>
@@ -1648,7 +2280,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="stringio (v0.0.1, rbenv: 2.5.1) [gem]">
+    <library name="stringio (v0.0.1, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -1660,7 +2295,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="strscan (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="strscan (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -1716,13 +2354,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
       </SOURCES>
     </library>
-    <library name="test-unit (v3.2.7, rbenv: 2.5.1) [gem]">
+    <library name="test-unit (v3.2.7, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
+      </excluded>
     </library>
     <library name="test-unit (v3.2.7, rbenv: 2.5.3) [gem]">
       <CLASSES>
@@ -1740,13 +2392,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/thor-0.20.0/lib" />
       </SOURCES>
     </library>
-    <library name="thor (v0.20.0, rbenv: 2.5.1) [gem]">
+    <library name="thor (v0.20.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thor-0.20.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thor-0.20.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thor-0.20.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thor-0.20.0/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thor-0.20.0/bin" />
+      </excluded>
     </library>
     <library name="thread_safe (v0.3.6, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1756,13 +2416,33 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/thread_safe-0.3.6/lib" />
       </SOURCES>
     </library>
-    <library name="thread_safe (v0.3.6, rbenv: 2.5.1) [gem]">
+    <library name="thread_safe (v0.3.6, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/yard-template" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/yard-template" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/thread_safe-0.3.6/yard-template" />
+      </excluded>
     </library>
     <library name="tzinfo (v1.2.5, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1772,13 +2452,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/tzinfo-1.2.5/lib" />
       </SOURCES>
     </library>
-    <library name="tzinfo (v1.2.5, rbenv: 2.5.1) [gem]">
+    <library name="tzinfo (v1.2.5, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/tzinfo-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/tzinfo-1.2.5/test" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/tzinfo-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/tzinfo-1.2.5/test" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/tzinfo-1.2.5/test" />
+      </excluded>
     </library>
     <library name="unicode-display_width (v1.3.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1792,9 +2480,22 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="webrick (v1.4.2, rbenv: 2.5.1) [gem]">
-      <CLASSES />
-      <SOURCES />
+    <library name="webrick (v1.4.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/webrick/httpservlet" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/webrick/httpservlet" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/2.5.0/webrick/httpservlet" />
+      </excluded>
     </library>
     <library name="webrick (v1.4.2, rbenv: 2.5.3) [gem]">
       <CLASSES />
@@ -1812,13 +2513,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/websocket-driver-0.6.5/lib" />
       </SOURCES>
     </library>
-    <library name="websocket-driver (v0.6.5, rbenv: 2.5.1) [gem]">
+    <library name="websocket-driver (v0.6.5, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/examples" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-driver-0.6.5/examples" />
+      </excluded>
     </library>
     <library name="websocket-extensions (v0.1.3, rbenv: 2.4.2) [gem]">
       <CLASSES>
@@ -1828,7 +2540,10 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/websocket-extensions-0.1.3/lib" />
       </SOURCES>
     </library>
-    <library name="websocket-extensions (v0.1.3, rbenv: 2.5.1) [gem]">
+    <library name="websocket-extensions (v0.1.3, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/websocket-extensions-0.1.3/lib" />
       </CLASSES>
@@ -1868,13 +2583,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="xmlrpc (v0.3.0, rbenv: 2.5.1) [gem]">
+    <library name="xmlrpc (v0.3.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
+      </excluded>
     </library>
     <library name="xmlrpc (v0.3.0, rbenv: 2.5.3) [gem]">
       <CLASSES>
@@ -1888,7 +2611,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="zlib (v1.0.0, rbenv: 2.5.1) [gem]">
+    <library name="zlib (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
