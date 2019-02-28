@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="df" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="react_url_builder.rb" type="PLAIN_TEXT" />
