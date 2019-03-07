@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.hbs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,10 +21,11 @@
     <mask>*.js,*.hbs</mask>
     <mask>*.erb</mask>
     <mask>*.rb,*.yml</mask>
-    <mask>*.hbs</mask>
     <mask>*_spec.rb</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.rb</mask>
+    <mask>*.hbs,*.js</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
