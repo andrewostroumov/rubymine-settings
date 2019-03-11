@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,9 +23,9 @@
     <mask>*.rb,*.yml</mask>
     <mask>*_spec.rb</mask>
     <mask>*.css</mask>
-    <mask>*.rb</mask>
     <mask>*.hbs,*.js</mask>
     <mask>*.hbs</mask>
     <mask>*.js</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
