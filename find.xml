@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,10 +21,10 @@
     <mask>*.css</mask>
     <mask>*.hbs,*.js</mask>
     <mask>*.hbs</mask>
-    <mask>*.rb</mask>
     <mask>*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.erb</mask>
     <mask>*.js</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
