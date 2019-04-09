@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.hbs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,8 +21,8 @@
     <mask>*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.erb</mask>
-    <mask>*.hbs</mask>
     <mask>*.js</mask>
     <mask>*.rb</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
