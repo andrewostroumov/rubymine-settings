@@ -21,7 +21,7 @@
     <mask>*.erb</mask>
     <mask>*_spec.rb</mask>
     <mask>*.js</mask>
-    <mask>*.hbs</mask>
     <mask>*.rb</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
