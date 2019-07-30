@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../app/models/task_event/query.rb [instaplus.web]'" />
+    <option name="defaultScopeName" value="File '.../app/models/task_event/query.rb [instaplus.web]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/models/task_event/query.rb [instaplus.web]'" />
     <option name="FILE_MASK" value="*.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>

@@ -90,14 +90,10 @@
   <inspection_tool class="OctalIntegerJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PackageJsonMismatchedDependency" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PointlessArithmeticExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PointlessBitwiseExpressionJS" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="m_ignoreExpressionsContainingConstants" value="false" />
-  </inspection_tool>
   <inspection_tool class="PointlessBooleanExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RailsI18nInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReservedWordUsedAsNameJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReturnFromFinallyBlockJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="Rubocop" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RubyCaseWithoutElseBlockInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RubyQuotedStringsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ShiftOutOfRangeJS" enabled="false" level="WARNING" enabled_by_default="false" />
