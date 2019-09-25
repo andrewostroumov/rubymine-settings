@@ -94,6 +94,7 @@
   <inspection_tool class="RailsI18nInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReservedWordUsedAsNameJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReturnFromFinallyBlockJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="Rubocop" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RubyCaseWithoutElseBlockInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RubyQuotedStringsInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="ShiftOutOfRangeJS" enabled="false" level="WARNING" enabled_by_default="false" />
