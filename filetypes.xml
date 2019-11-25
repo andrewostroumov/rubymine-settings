@@ -15,6 +15,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="rolling_version" type="Ruby" />
     </extensionMap>
   </component>
