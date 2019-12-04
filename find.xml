@@ -16,12 +16,12 @@
     <mask>*.rb,*.yml</mask>
     <mask>*.css</mask>
     <mask>*.hbs,*.js</mask>
-    <mask>*.erb</mask>
     <mask>*_spec.rb</mask>
     <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.hbs</mask>
     <mask>*.rb</mask>
+    <mask>*.erb</mask>
   </component>
 </application>
