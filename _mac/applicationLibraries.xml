@@ -489,6 +489,12 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bump-0.6.1/bin" />
       </excluded>
     </library>
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.16.2, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
