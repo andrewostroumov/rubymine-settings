@@ -14,10 +14,10 @@
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
-      <mapping ext="ca-bundle" type="PLAIN_TEXT" />
-      <mapping ext="chain" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="ca-bundle" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="chain" type="PLAIN_TEXT" />
       <mapping pattern="rolling_version" type="Ruby" />
     </extensionMap>
   </component>
