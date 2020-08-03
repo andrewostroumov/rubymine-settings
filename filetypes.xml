@@ -1,26 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="df" type="Dockerfile" />
-      <mapping ext="dev" type="Dockerfile" />
-      <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="react_url_builder.rb" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="vault_password" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".properties" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".revision" type="PLAIN_TEXT" />
-      <mapping pattern="passwd" type="PLAIN_TEXT" />
-      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
+      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
+      <mapping pattern="passwd" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".properties" type="PLAIN_TEXT" />
+      <mapping pattern="vault_password" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping pattern=".revision" type="PLAIN_TEXT" />
+      <mapping ext="chain" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="ca-bundle" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="chain" type="PLAIN_TEXT" />
       <mapping pattern="rolling_version" type="Ruby" />
+      <mapping ext="dev" type="Dockerfile" />
+      <mapping ext="df" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
